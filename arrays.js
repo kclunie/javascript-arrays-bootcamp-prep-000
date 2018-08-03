@@ -64,5 +64,9 @@ function destructivelyRemoveElementFromEndOfArray(array){
 
 function removeElementFromEndOfArray(array){
   array.slice(0, array.length-1)
+<<<<<<< HEAD
   return array.slice(0, array.length-1)
+=======
+  return arrray
+>>>>>>> 51250a7a807b6859c454c61d3d36c0f0652039bc
 }
